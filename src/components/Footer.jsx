@@ -57,7 +57,6 @@ const Footer = () => {
               className="w-full px-4 py-2 rounded bg-gray-800 text-white placeholder-gray-500"
             />
             <button
-              type="submit"
               className="w-full bg-red-500 hover:bg-red-600 text-white font-semibold py-2 rounded"
             >
               SIGN UP NEWSLETTER
