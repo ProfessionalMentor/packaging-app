@@ -32,7 +32,6 @@ const Footer = () => {
         <div>
           <h3 className="text-red-500 font-semibold mb-4">Products</h3>
           <ul className="space-y-2 text-gray-300 text-sm">
-            <li><Link to="/customboxes">Custom Boxes</Link></li>
             <li><a href="#">Stickers</a></li>
             <li><a href="#">Labels & Tags</a></li>
             <li><a href="#">Paper Bag</a></li>
