@@ -156,7 +156,7 @@ const Register = () => {
             <p className="text-sm text-red-600 text-center">{serverError}</p>
           )}
           
-          <div className="flex justify-between px-4 ">
+          <div className="flex justify-around px-4 ">
             <button
               type="submit"
               className="w-[20vh] px-4 py-2 font-medium text-white bg-red-500  rounded-md hover:bg-red-600  "
