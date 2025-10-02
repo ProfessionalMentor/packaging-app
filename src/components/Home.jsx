@@ -54,7 +54,7 @@ const Home = () => {
 </div>
 
       {/* CTA Button */}
-      <div className="text-center py-8">
+      <div className="absolute top-[37rem] left-90 transform  -translate-y-1/2 text-center py-8">
         <button
           onClick={handleClick}
           className="bg-red-600 hover:bg-red-700 text-white py-3 px-8 rounded-full text-lg font-semibold transition duration-300"
